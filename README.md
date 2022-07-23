@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muc_kyu" target="blank"><img src="https://img.shields.io/twitter/follow/muc_kyu?logo=twitter&style=for-the-badge" alt="muc_kyu" /></a> </p>
 
-- 🔭 I’m currently working on **United-ESports**
+- 🔭 I’m currently working on **Private Projects & Looking for Work**
 
 - 🌱 I’m currently learning **Ruby**
 
